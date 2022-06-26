@@ -1,0 +1,10 @@
+.item {
+    padding: 20px;
+}
+.comment {
+    padding: -20px 20px;
+}
+.item img {
+    width: 70px;
+    border-radius: 100%;
+}

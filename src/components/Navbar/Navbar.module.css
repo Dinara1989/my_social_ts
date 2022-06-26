@@ -9,7 +9,8 @@
 }
 
 .active {
-    color: #ce1010;
+    color: #0f260f;
     text-decoration-line: unset;
     cursor: default;
+    font-weight: bold;
 }

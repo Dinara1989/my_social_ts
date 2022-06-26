@@ -3,23 +3,17 @@
     grid-template-columns: 2fr 10fr;
 }
 .dialogsItems {
-    padding: 10px;
+    padding: 20px;
     text-decoration: none;
-}
-.dialogsItems .activeLink {
-    color: #0f260f;
 }
 .dialog {
     padding: 10px;
     text-decoration: none;
+    color: #6ec06e;
+}
+.active {
     color: #0f260f;
-}
-.dialogsItems .activeLink {
-    color: #9fdc9f;
-}
-.messages {
-
-}
-.message {
-    padding: 10px;
+    text-decoration-line: unset;
+    cursor: default;
+    font-weight: bold;
 }
